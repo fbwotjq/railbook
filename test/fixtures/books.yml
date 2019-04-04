@@ -4,7 +4,7 @@ one:
   isbn: MyString
   title: MyString
   price: 1
-  pulish: MyString
+  publish: MyString
   published: 2019-02-10
   cd: false
 
@@ -12,6 +12,6 @@ two:
   isbn: MyString
   title: MyString
   price: 1
-  pulish: MyString
+  publish: MyString
   published: 2019-02-10
   cd: false
